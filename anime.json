@@ -15,7 +15,22 @@
   "subtitles": [""],
   "sourceSite": "AniLiberti",
   "releaseStatus": "Анонс", 
-},
+  "episodesData": [
+     {
+     "number": 1,
+      "title": "Скоро",
+      "duration": "",
+      "releaseDate": "",
+       "externalLinks": {
+        "videoUrl": {
+          "480": "https://cache-rfn.libria.fun/videos/media/ts/10047/1/480/9ee6e35903d9dc60aeef1a29b3a49532.m3u",
+          "720": "https://cache-rfn.libria.fun/videos/media/ts/10047/1/720/9cf1c553b22702f67b52da0424aaab1a.m3u",
+          "1080": "https://cache-rfn.libria.fun/videos/media/ts/10047/1/1080/91a8fafb3df55e1ccb55c16ed1ffe9d6.m3u"
+          }
+        }
+      }
+    ]
+  },
   {
     "id": 11,
     "title": "Вампир не умеет правильно сосать",
