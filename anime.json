@@ -46,10 +46,10 @@
     "voice": ["Faraway,", "Sharon,", "Silv,"],
     "timing": ["emmett"],
     "subtitles": ["Kenorlik,", "Flir"],
-    "sourceSit": "AniLiberti",
-    "releaseStatus": "В работе",
+    "sourceSite": "AniLiberti",
+    "releaseStatus": "Завершено",
     "totalEpisodes": 13,
-    "currentEpisode": 11,    
+    "currentEpisode": 13,    
     "nextEpisodeTime": "19:20",
     "releaseDay": "Среда",
     "episodesData": [
