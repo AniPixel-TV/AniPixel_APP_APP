@@ -20,8 +20,21 @@
     "nextEpisodeTime": "18:30",
     "releaseDay": "Суббота",
     "episodesData": [
+      {
+        "number": 1,
+        "title": "",
+        "duration": "",
+        "releaseDate": "",
+        "externalLinks": {
+          "videoUrl": {
+            "480": "",
+            "720": "",
+            "1080": ""
+          }
+        }
+      }
     ]
-    },
+  },
   {
     "id": 11,
     "title": "Вампир не умеет правильно сосать",
