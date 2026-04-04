@@ -14,7 +14,7 @@
     "timing": [""],
     "subtitles": [""],
     "sourceSite": "AniLiberti",
-    "releaseStatus": "Анонс",
+    "releaseStatus": "В работе",
     "totalEpisodes": 0,
     "currentEpisode": 0,    
     "nextEpisodeTime": "18:30",
@@ -159,6 +159,65 @@
     "nextEpisodeTime": "18:30",
     "releaseDay": "Вторник",
     "episodesData": [
+    ]
+  },
+    {
+    "id": 108,
+    "title": "Добро пожаловать в класс превосходства 4: Второй год — Первый семестр",
+    "poster": "https://github.com/AniPixel-TV/AniPixel_APP_APP/blob/main/public/posters/108.png?raw=true",
+    "description": "Аянокоджи и его одноклассники начинают свой второй год обучения в школе Кёдо Икусей. Впереди из ждёт серия непростых экзаменов, а также знакомство с новой группой довольно своеобразных первогодок. Ученикам придётся быстро найти общий язык друг с другом, потому что первый экзамен объединит их классы в пары для письменного теста. Соли во всё это добавляет то, что за плохие результаты могут быть исключены только второгодки. Более того, выясняется, что кое-кто из поступивших тоже из Белой комнаты. Сможет ли Аянокоджи избежать исключения и раскрыть личность своего нового врага?",
+    "rating": 0,
+    "year": 2026,
+    "ageRating": "16+",
+    "season": "Весна",
+    "type": "ТВ",
+    "genres": [],
+    "voice": [""],
+    "timing": [""],
+    "subtitles": [""],
+    "sourceSite": "AniLiberti",
+    "releaseStatus": "Анонс",
+    "totalEpisodes": 0,
+    "currentEpisode": 0,    
+    "nextEpisodeTime": "18:30",
+    "releaseDay": "Вторник",
+    "episodesData": [
+    ]
+  },
+  {
+    "id": 109,
+    "title": "Доктор Стоун: Научное будущее. Часть 3",
+    "poster": "https://github.com/AniPixel-TV/AniPixel_APP_APP/blob/main/public/posters/109.png?raw=true",
+    "description": "Подготовка к самому дерзкому проекту в истории человечества завершена: Царство науки начинает строительство ракеты для полета на Луну. Чтобы навсегда покончить с угрозой окаменения, Сэнку и его команда должны преодолеть земное притяжение и встретиться лицом к лицу с таинственным Почемучкой. В этом решающем финале наука станет мостом между прошлым и будущим. Героям предстоит не просто раскрыть тайну катастрофы, но и заложить фундамент для новой эры, где знания станут общим достоянием всего мира. Путь к звездам открыт, и теперь судьба цивилизации зависит от одного точного расчета и непоколебимой веры в человеческий разум.",
+    "rating": 0,
+    "year": 2026,
+    "ageRating": "16+",
+    "season": "Весна",
+    "type": "ТВ",
+    "genres": [],
+    "voice": [""],
+    "timing": [""],
+    "subtitles": [""],
+    "sourceSite": "AniLiberti",
+    "releaseStatus": "В работе",
+    "totalEpisodes": 12,
+    "currentEpisode": 1,    
+    "nextEpisodeTime": "08:10",
+    "releaseDay": "Пятница",
+    "episodesData": [
+          {
+        "number": 1,
+        "title": "Двигатель будущего",
+        "duration": "",
+        "releaseDate": "",
+        "externalLinks": {
+          "videoUrl": {
+            "480": "https://cache.libria.fun/videos/media/ts/10162/1/480/64ee7c6e59c518d364cfab8c6cde3cf9.m3u8",
+            "720": "https://cache.libria.fun/videos/media/ts/10162/1/720/92bfbb01a61e1975af8dc1f7f01905eb.m3u8",
+            "1080": "https://cache.libria.fun/videos/media/ts/10162/1/1080/33ac99f54ca6bdf491fe5fbb12167c8b.m3u8"
+          }
+        }
+      }
     ]
   },
   {
