@@ -18,10 +18,23 @@
     "totalEpisodes": 0,
     "currentEpisode": 0,    
     "nextEpisodeTime": "18:30",
-    "releaseDay": "Суббота",
-    "episodesData": [    
-  ]
-  },
+    "releaseDay": "Воскресенье",
+    "episodesData": [       
+      {
+        "number": 1,
+        "title": "Дебют в школе в качестве пары",
+        "duration": "",
+        "releaseDate": "",
+        "externalLinks": {
+          "videoUrl": {
+            "480": "https://cache.libria.fun/videos/media/ts/10153/1/480/6095366be16c5b47e48e689347e4bb80.m3u8",
+            "720": "https://cache.libria.fun/videos/media/ts/10153/1/720/5dd66af959448e7481da7127ace56556.m3u8",
+            "1080": "https://cache.libria.fun/videos/media/ts/10153/1/1080/eee2333f33484ed7e7c88a63a62387bb.m3u8"
+          }
+        }
+      }
+    ]
+  },  
   {
     "id": 102,
     "title": "Я подружился со второй самой симпатичной девушкой в классе",
